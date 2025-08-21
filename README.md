@@ -17,5 +17,17 @@ I am an interdisciplinary theorist specializing in original, implementable theor
   DOI:  https://doi.org/10.5281/zenodo.15574197
 
 ## Provenance | 來源與封存
-All releases are published on GitHub and Zenodo (DOI) and permanently archived on-chain (e.g., Arweave/Mirror). Please cite properly when referencing.
-所有版本已於 GitHub 與 Zenodo（DOI）發表，並永久上鏈封存（如 Arweave/Mirror）。引用請標示出處。
+
+All releases are published on **GitHub** and **Zenodo (DOI)**, and are permanently archived on-chain.  
+Please cite properly when referencing.
+
+- DOI: [10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
+- On-chain Proof: [Mirror](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck) · [Arweave](https://ardrive.io/public/f_FHFfQvhXwAqZpccBcsW9A4T3J6m2M2iBfW3Aj4kFqE)
+
+---
+
+所有版本已於 **GitHub** 與 **Zenodo（DOI）** 發表，並永久上鏈封存。  
+引用請標示出處。
+
+- DOI: [10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
+- 上鏈存證: [Mirror](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck) · [Arweave](https://ardrive.io/public/f_FHFfQvhXwAqZpccBcsW9A4T3J6m2M2iBfW3Aj4kFqE)
