@@ -22,7 +22,8 @@ All releases are published on **GitHub** and **Zenodo (DOI)**, and are permanent
 Please cite properly when referencing.
 
 - DOI: [10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
-- On-chain Proof: [Mirror](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck) · [Arweave](https://yv2p7nvv6pqjsxzjgbx57qsia5ibn7svvv3s6v2zknwp3rv5rqvq.arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs)
+- On-chain Proof: [Mirror](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck) · [Arweave](https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs
+)
 
 ---
 
@@ -30,4 +31,5 @@ Please cite properly when referencing.
 引用請標示出處。
 
 - DOI: [10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
-- 上鏈存證: [Mirror](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck) · [Arweave](https://yv2p7nvv6pqjsxzjgbx57qsia5ibn7svvv3s6v2zknwp3rv5rqvq.arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs)
+- 上鏈存證: [Mirror](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck) · [Arweave](https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs
+)
